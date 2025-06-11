@@ -1,5 +1,7 @@
 # Agents
-AI opensource Agentic  approach:
+
+**AI opensource Agentic  approach:**
+
 An agentic approach in AI involves designing systems (agents) that can perceive their environment, reason logically, and take actions to achieve goals autonomously.
 The perceive method means the agent is sensing or recognizing an input (stimulus) from the environment (like "hungry" or "bored") and deciding what action to take based on its internal logic (the rules dictionary).
 
