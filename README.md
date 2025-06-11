@@ -5,19 +5,31 @@ The perceive method means the agent is sensing or recognizing an input (stimulus
 
 **The main advantages of the AI agentic approach are:**
     1. Autonomy: Agents can make decisions without constant human intervention.
+    
     2. Goal-directed behavior: They can pursue specific objectives in dynamic environments.
+    
     3. Adaptability: They can adjust actions based on changes in their environment.
+    
     4. Modular design: Agents can be combined to build complex systems.
+    
     5. Reusability: Individual agents can be reused in different contexts.
+    
 In short: AI agents can think, act, and react logically in their environment, making them highly effective for automation and problem-solving.
 
 **Key components of the AI agentic approach are:**
+
     1. Perception/Sensing — to gather data from the environment.
+    
     2. Knowledge Base — to store facts, rules, or models.
+    
     3. Reasoning/Decision-making — to choose the best action logically.
+    
     4. Action/Execution — to carry out decisions and affect the environment.
+    
     5. Goals/Objectives — define what the agent aims to achieve.
+    
     6. Learning (optional) — to improve performance over time.
+    
 Together, these components enable the agent to sense, reason, and act in a dynamic environment.
 In the agentic approach, the AI component is the part that uses logical reasoning to decide the best action based on its knowledge base and goals.
 For example:
